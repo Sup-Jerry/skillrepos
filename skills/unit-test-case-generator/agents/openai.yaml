@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unit Test Case Generator"
+  short_description: "Generate robust, maintainable unit test cases."
+  default_prompt: "Use this skill to produce input-output focused unit test cases with edge and exception coverage, using six core case types: normal, boundary, invalid, conflict, regression, and combination."
