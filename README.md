@@ -3,8 +3,8 @@
 Monorepo for reusable Codex skills.
 
 ## Skills
-- `skills/large-file-split-migration`
-- `skills/unit-test-case-generator`
+- `large-file-split-migration`
+- `unit-test-case-generator`
 - `high-bar-project-scoring`
 
 ## Sync workflow
